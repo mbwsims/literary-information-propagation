@@ -1,3 +1,3 @@
-# Measuring Literary Information Propagation
+# Measuring Information Propagation in Literary Social Networks
 
-Coming soon: full pipeline for reproducing the paper ["Measuring Literary Information Propagation"](https://arxiv.org/abs/2004.13980)
+Coming soon: full pipeline for reproducing the paper ["Measuring Information Propagation in Literary Social Networks"](https://arxiv.org/abs/2004.13980)
